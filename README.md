@@ -1,1 +1,1 @@
-# BYUCS260
+# Primary Directory for CS 260
